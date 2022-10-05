@@ -1,0 +1,111 @@
+[submodule "codestream-server"]
+	path = codestream-server
+	url = https://github.com/TeamCodeStream/codestream-server
+[submodule "codestream"]
+	path = codestream
+	url = https://github.com/TeamCodeStream/codestream
+[submodule "spring-petclinic"]
+	path = spring-petclinic
+	url = https://github.com/TeamCodeStream/spring-petclinic
+[submodule "gore"]
+	path = gore
+	url = https://github.com/TeamCodeStream/gore
+[submodule "go-clm-demo"]
+	path = go-clm-demo
+	url = https://github.com/TeamCodeStream/go-clm-demo
+[submodule "python_clm_demo"]
+	path = python_clm_demo
+	url = https://github.com/TeamCodeStream/python_clm_demo
+[submodule "clm-spring-petclinic-microservices"]
+	path = clm-spring-petclinic-microservices
+	url = https://github.com/TeamCodeStream/clm-spring-petclinic-microservices
+[submodule "spring-petclinic-rest"]
+	path = spring-petclinic-rest
+	url = https://github.com/TeamCodeStream/spring-petclinic-rest
+[submodule "codestream-codespaces"]
+	path = codestream-codespaces
+	url = https://github.com/TeamCodeStream/codestream-codespaces
+[submodule "codestream-guide"]
+	path = codestream-guide
+	url = https://github.com/TeamCodeStream/codestream-guide
+[submodule "latest-news"]
+	path = latest-news
+	url = https://github.com/TeamCodeStream/latest-news
+[submodule "newrelic-quickstarts"]
+	path = newrelic-quickstarts
+	url = https://github.com/TeamCodeStream/newrelic-quickstarts
+[submodule "atom-client"]
+	path = atom-client
+	url = https://github.com/TeamCodeStream/atom-client
+[submodule "codestream-trello"]
+	path = codestream-trello
+	url = https://github.com/TeamCodeStream/codestream-trello
+[submodule "code-prettify"]
+	path = code-prettify
+	url = https://github.com/TeamCodeStream/code-prettify
+[submodule "vscode-client-placeholder"]
+	path = vscode-client-placeholder
+	url = https://github.com/TeamCodeStream/vscode-client-placeholder
+[submodule "ts-react-starter"]
+	path = ts-react-starter
+	url = https://github.com/dillon-sellars/ts-react-starter
+[submodule "hdiv"]
+	path = hdiv
+	url = https://github.com/dillon-sellars/hdiv
+[submodule "java-buildpack"]
+	path = java-buildpack
+	url = https://github.com/dillon-sellars/java-buildpack
+[submodule "stack"]
+	path = stack
+	url = https://github.com/dillon-sellars/stack
+[submodule "starter-kit"]
+	path = starter-kit
+	url = https://github.com/dillon-sellars/starter-kit
+[submodule "MultiTrie"]
+	path = MultiTrie
+	url = https://github.com/dillon-sellars/MultiTrie
+[submodule "jest-serial-runner"]
+	path = jest-serial-runner
+	url = https://github.com/dillon-sellars/jest-serial-runner
+[submodule "terraform-aws-rds"]
+	path = terraform-aws-rds
+	url = https://github.com/dillon-sellars/terraform-aws-rds
+[submodule "keycloak"]
+	path = keycloak
+	url = https://github.com/dillon-sellars/keycloak
+[submodule "centurion"]
+	path = centurion
+	url = https://github.com/newrelic/centurion
+[submodule "rusty-hog"]
+	path = rusty-hog
+	url = https://github.com/newrelic/rusty-hog
+[submodule "sidecar"]
+	path = sidecar
+	url = https://github.com/newrelic/sidecar
+[submodule "newrelic-python-agent"]
+	path = newrelic-python-agent
+	url = https://github.com/newrelic/newrelic-python-agent
+[submodule "infrastructure-public-keys"]
+	path = infrastructure-public-keys
+	url = https://github.com/newrelic/infrastructure-public-keys
+[submodule "release-toolkit"]
+	path = release-toolkit
+	url = https://github.com/newrelic/release-toolkit
+[submodule "infrastructure-agent"]
+	path = infrastructure-agent
+	url = https://github.com/newrelic/infrastructure-agent
+[submodule "newrelic-node-examples"]
+	path = newrelic-node-examples
+	url = https://github.com/newrelic/newrelic-node-examples
+[submodule "nri-postgresql"]
+	path = nri-postgresql
+	url = https://github.com/newrelic/nri-postgresql
+[submodule "helm-charts"]
+	path = helm-charts
+	url = https://github.com/newrelic/helm-charts
+[submodule "newrelic-ruby-agent"]
+	path = newrelic-ruby-agent
+	url = https://github.com/newrelic/newrelic-ruby-agent
+[submodule "newrelic-prometheus-exporters-packages"]
+	path = newrelic-prometheus-exporters-packages
+	url = https://github.com/newrelic/newrelic-prometheus-exporters-packages

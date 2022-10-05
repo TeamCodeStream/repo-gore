@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MultiTrie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/atom-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/centurion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/clm-spring-petclinic-microservices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code-prettify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codestream" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codestream-codespaces" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codestream-guide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codestream-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codestream-trello" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go-clm-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hdiv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/helm-charts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/infrastructure-agent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/infrastructure-public-keys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-buildpack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jest-serial-runner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/latest-news" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/newrelic-node-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/newrelic-prometheus-exporters-packages" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/newrelic-python-agent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/newrelic-quickstarts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/newrelic-ruby-agent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nri-postgresql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_clm_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/release-toolkit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rusty-hog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sidecar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-petclinic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-petclinic-rest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/starter-kit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/terraform-aws-rds" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ts-react-starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vscode-client-placeholder" vcs="Git" />
+  </component>
+</project>
